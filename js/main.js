@@ -134,6 +134,7 @@ class Game {
     }
     reset() {
         location.reload();
+        window.location.reload()
     }
 
 }
